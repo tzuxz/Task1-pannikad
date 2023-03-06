@@ -1,0 +1,37 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&family=Prompt:ital,wght@1,300&display=swap');
+
+body{
+    background-color: cadetblue;
+    color: brown;
+    padding-left: 25%;
+    margin: 0 auto;
+}
+
+.pilt{
+    width: 500px;
+    border-radius: 8px;
+}
+
+.pealkiri{
+    color: darkgreen;
+    font-family: 'Lobster Two', cursive;
+    font-size: 5rem;
+}
+
+.koostisosad{
+    padding: 20px;
+}
+
+.koostisosad table{
+    border: 2px solid black;
+    width: 50%;
+}
+
+.tegemine{
+    width: 50%;
+    font-size: 30px;
+}
+
+footer{
+    color: black;
+}
